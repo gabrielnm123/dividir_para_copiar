@@ -20,3 +20,5 @@ Out[1]: 3 # nesse exemplo deu 3
 In [2]: copy(0) # copia a primeira parte
 In [3]: copy(2) # copia a terceira parte
 ```
+
+> Recomendo utilizar em prompts, que pedem uma quantidade expecífica de caractéres
