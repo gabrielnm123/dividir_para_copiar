@@ -4,14 +4,17 @@
 
 ## Instalação
 
-```python
+```bash
 pip -r requirements.txt
 ```
 
 ## Utilizaçao
 
-```python
+```bash
 ipython -i .
+```
+
+```ipython
 In [1]: len(texto_dividido) # pra saber a quantidade dividida
 Out[1]: 3 # nesse exemplo deu 3 
 In [2]: copy(0) # copia a primeira parte
