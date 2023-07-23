@@ -1,9 +1,9 @@
 from subprocess import run
 import pyperclip
 
-run('clear')
 linha_parada = input('linha de parada: ')
 linhas = []
+
 while True:
     linha = input('texto: ')
     if linha == linha_parada:
