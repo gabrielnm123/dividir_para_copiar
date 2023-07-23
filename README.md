@@ -2,6 +2,8 @@
 
 ![parodia com julio cesar falando dividir para copiar](imagens/julio_cesar_dividir_para_conquistar_.png)
 
+Esse programa pode dividir textos em partes menores e copiar suas partes para a área de transferência, uma por uma.
+
 ## Instalação
 
 ```bash
