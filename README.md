@@ -13,7 +13,7 @@ pip -r requirements.txt
 ## Utilizaçao
 
 ```bash
-ipython -i . # iniciar o programa
+python -i . # iniciar o programa
 ```
 
 ```python
